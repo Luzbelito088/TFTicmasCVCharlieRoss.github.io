@@ -52,6 +52,12 @@ body {
     opacity: 1;
   }
 
+  button {
+    background-color: #ffc550;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+  }
+
 /* Esto sería la primera parte, el header */
 
 #header {

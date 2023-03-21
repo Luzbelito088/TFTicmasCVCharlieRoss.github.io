@@ -56,6 +56,9 @@ body {
     background-color: #ffc550;
     font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
+    color: #fff;
+    border-color: #fff;
+    padding: 10px 20px;
   }
 
 /* Esto sería la primera parte, el header */
